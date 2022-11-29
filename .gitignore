@@ -1,0 +1,3 @@
+# .gitignore นี้ เอาไว้ใส่ไฟล์ที่เราไม่ต้องการ deploy ขึ้น Github Repository
+.env
+node_modules
