@@ -1,4 +1,4 @@
-// *TODO: ออกแบบโครงสร้างข้อมูล (Schema)
+// TODO: ออกแบบโครงสร้างข้อมูล (Schema)
 //* ชื่อบทความ (title), เนื้อหาบทความ (content), ผู้เขียน (author), slug (URL)
 
 const mongoose = require("mongoose")
